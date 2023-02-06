@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA_Level2-module1-Solution</Text>
+    <Description>Some description for RAA_Level2-module1-Solution</Description>
+    <Assembly>RAA_Level2-module1-Solution.dll</Assembly>
+    <FullClassName>RAA_Level2_module1_Solution.Command</FullClassName>
+    <ClientId>bde95592-d75e-4001-ac8e-62493dfc3976</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA_Level2-module1-Solution</Name>
+    <Assembly>RAA_Level2-module1-Solution.dll</Assembly>
+    <FullClassName>RAA_Level2_module1_Solution.App</FullClassName>
+    <ClientId>b6fc6c0f-6058-4e00-b43f-e6372151c9b8</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
